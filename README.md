@@ -23,10 +23,12 @@ Hobbies:
   - Anime
   - Tech Research
 ```
+![Profile Views](https://komarev.com/ghpvc/?username=Mitzsaki&color=blueviolet&style=for-the-badge)
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,css,python,github,vscode" /> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitzsaki&theme=tokyonight&hide_border=true"/> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mitzsaki&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Mitzsaki/Mitzsaki/output/github-contribution-grid-snake-dark.svg"/> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitzsaki&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center"> <a href="https://github.com/Mitzsaki"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+![Repos](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/Mitzsaki)
