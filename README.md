@@ -22,5 +22,5 @@ Hobbies:
   - Gaming
   - Anime
   - Tech Research
-
+```
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,html,css,react,nodejs,mysql,git,github,vscode" /> </p>
