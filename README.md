@@ -35,7 +35,3 @@ Hobbies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mitzsaki&theme=tokyonight&no-frame=true" />
 </p>
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mitzsaki&color=blueviolet&style=for-the-badge)
-</p>
