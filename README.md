@@ -16,20 +16,17 @@ Currently Learning:
   - Full Stack Development
   - Backend Systems
   - Algorithms
-  - Modern Web Technologies
 Hobbies:
   - Coding
   - Gaming
-  - Anime
   - Tech Research
+  - Basketball Referee
 ```
 ![Profile Views](https://komarev.com/ghpvc/?username=Mitzsaki&color=blueviolet&style=for-the-badge)
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,css,python,github,vscode" /> </p>
 
 ## 📊 GitHub Stats
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitzsaki&theme=tokyonight" />
