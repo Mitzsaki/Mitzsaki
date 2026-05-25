@@ -23,4 +23,4 @@ Hobbies:
   - Anime
   - Tech Research
 ```
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,html,css,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,css,python,github,vscode" /> </p>
