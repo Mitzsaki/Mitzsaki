@@ -26,8 +26,4 @@ Hobbies:
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,c,python,github,vscode" /> </p>
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1438740786408718420?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px"/>
-</p>
