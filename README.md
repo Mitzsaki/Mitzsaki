@@ -29,7 +29,5 @@ Hobbies:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discord.com/users/1438740786408718420">
-    <img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" />
-  </a>
+  <img src="https://lanyard.cnrad.dev/api/1438740786408718420?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px"/>
 </p>
