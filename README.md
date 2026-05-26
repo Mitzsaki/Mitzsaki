@@ -26,12 +26,3 @@ Hobbies:
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,c,python,github,vscode" /> </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitzsaki&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mitzsaki&theme=tokyonight&no-frame=true" />
-</p>
